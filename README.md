@@ -11,6 +11,10 @@ In this repositriy, you will come across several projects that demonstrate the f
 
 ## About & Data Journey 
 
-I have a social science background and hold a Bachelor of Arts (B.A) degree in Sociology from Mount Royal University. I am currently a Health Research Interviewer collecting data for health status reporting and service deliver planning. During undergraduate school, I developed a passion for social research to better understand social behaviour and patterns to develop and enrich our community. Recently, I had the opportunity to practice my data-related skills through self-learning courses building off my previous knowledge of statistcs.I look forward to continous learning in data science and positively impacting others through data-drvien decisions. 
+I have a social science background and hold a Bachelor of Arts (B.A) degree in Sociology from Mount Royal University. I am currently a Health Research Interviewer collecting data for health status reporting and service deliver planning. During undergraduate school, I developed a passion for social research to better understand social structure and patterns to develop and enrich our community. Recently, I had the opportunity to practice my data-related skills through self-learning courses building off my previous knowledge of statistics.I look forward to continous learning in data science and positively impacting others through data-drvien decisions. 
 
-My Data Analystic blog on medium
+My Data Analystic blog on [medium](https://medium.com/@egafos/data-science-and-world-blitz-chess-championship-2022-discovering-insights-in-chess-championship-e905717a77e2)
+
+## Certificates
+* [Google Data Analytics Certificate](https://www.credly.com/badges/f130f200-7f84-4659-a2ee-fed82da7f555/public_url) (Feb 2023)(Coursera)
+
