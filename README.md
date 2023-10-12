@@ -13,10 +13,13 @@ In this repository, you will come across several projects that demonstrate the f
 
 I have a social science background and hold a Bachelor of Arts (B.A) degree in Sociology from Mount Royal University. I am currently a Health Research Interviewer collecting data for health status reporting and service deliver planning. During undergraduate school, I developed a passion for social research to better understand social structures and patterns to develop and enrich our community. Recently, I had the opportunity to practice my data-related skills through self-learning courses building off my previous knowledge of social statistics. I look forward to continous learning in data science and positively impacting others through data-drvien decisions. 
 
-The projects shown above demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action. 
+The projects shown below demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action. 
+
+CURRENT PROJECTS CLICK HERE >>>> [DATA PROJECTS](https://github.com/EGPortfolioGithub/Data-Analysis-Portfolio/projects?query=is%3Aopen)
 
 My Data Anaysis Process using a chess dataset blog on [medium](https://medium.com/@egafos/data-science-and-world-blitz-chess-championship-2022-discovering-insights-in-chess-championship-e905717a77e2)
 
 ## Certificates
 * [Google Data Analytics Certificate](https://www.credly.com/badges/f130f200-7f84-4659-a2ee-fed82da7f555/public_url) (Feb 2023)(Coursera)
+* Microsoft Certified: Power BI Data Analyst Associate (In progress)
 
