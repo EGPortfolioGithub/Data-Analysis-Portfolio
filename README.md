@@ -17,7 +17,7 @@ The projects shown below demonstrate my ability to analyze and present data in a
 
 CURRENT PROJECTS CLICK HERE >>>> [DATA PROJECTS](https://github.com/EGPortfolioGithub/Data-Analysis-Portfolio/projects?query=is%3Aopen)
 
-My Data Anaysis Process using a chess dataset blog on [medium](https://medium.com/@egafos/data-science-and-world-blitz-chess-championship-2022-discovering-insights-in-chess-championship-e905717a77e2)
+My Data Anaysis Process (Tableau,Excel,SQL) using a chess dataset blog on [medium](https://medium.com/@egafos/data-science-and-world-blitz-chess-championship-2022-discovering-insights-in-chess-championship-e905717a77e2)
 
 ## Certificates
 * [Google Data Analytics Certificate](https://www.credly.com/badges/f130f200-7f84-4659-a2ee-fed82da7f555/public_url) (Feb 2023)(Coursera)
