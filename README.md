@@ -3,17 +3,17 @@
 
 ## Introduction
 
-Hello!
+Hello, and welcome to my data analyst portfolio. I'm Eric, and I'm thrilled to have you here.
 
-Welcome to my portfolio. My name is Eric and I am excited to have you here. 
-
-In this repository, you will come across several projects that demonstrate the following, but not limited to the following skills: data exploration, statistcal analysis, data visualization, data cleaning and presentation skills, etc. Majority of my projects are done using SQL, PowerBI, Tableua and excel. In the following section of this README, I will provide a short summary of my data journey and and future projects. 
+Within this collection of projects, you'll discover my passion for data exploration, statistical analysis, data visualization, and effective data presentation. These are just a few of the skills I've honed along my data journey. The majority of my projects leverage SQL, PowerBI, Tableau, and Excel to uncover insights and tell data-driven stories. In this README, I'll provide a concise overview of my background and aspirations in data science, as well as a glimpse into my future projects.
 
 ## About & Data Journey 
 
-I have a social science background and hold a Bachelor of Arts (B.A) degree in Sociology from Mount Royal University. I am currently a Health Research Interviewer collecting data for health status reporting and service deliver planning. During undergraduate school, I developed a passion for social research to better understand social structures and patterns to develop and enrich our community. Recently, I had the opportunity to practice my data-related skills through self-learning courses building off my previous knowledge of social statistics. I look forward to continous learning in data science and positively impacting others through data-drvien decisions. 
+With a Bachelor of Arts degree in Sociology from Mount Royal University, my journey into the world of data analysis started with a deep appreciation for understanding social structures and patterns to enrich our communities. My current role as a Health Research Interviewer involves collecting data for health status reporting and service delivery planning, aligning my background with the analytical world.
 
-The projects shown below demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action. 
+As a self-learner, I've embarked on a path to develop and enhance my data skills, building upon my foundation in social statistics. My goal is to continue learning in the field of data science and, in turn, make a positive impact on decision-making through data-driven insights.
+
+The projects you'll find below showcase my ability to not only analyze data but also to present it in a clear, visually appealing manner, ensuring decision-makers can easily grasp the insights and take meaningful action. They represent my dedication to learning, my passion for data, and my commitment to making a difference through the power of information.
 
 CURRENT PROJECTS CLICK HERE >>>> [DATA PROJECTS](https://github.com/EGPortfolioGithub/Data-Analysis-Portfolio/projects?query=is%3Aopen)
 
